@@ -12,8 +12,6 @@ import java.util.Map;
 import org.apache.log4j.Logger;
 
 /**
- * @author ajun
- * @http://blog.csdn.net/ajun_studio
  **/
 public class ProcessClient {
     public static final Logger logger = Logger.getLogger(ProcessClient.class);

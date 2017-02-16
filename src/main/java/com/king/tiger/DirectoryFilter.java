@@ -3,8 +3,6 @@ package com.king.tiger;
 import java.io.File;  
 import java.io.FilenameFilter;  
 /** 
- * @author ajun 
- * @http://blog.csdn.net/ajun_studio   
  **/  
 public class DirectoryFilter implements FilenameFilter {
 

@@ -11,8 +11,6 @@ import freemarker.template.Template;
 import freemarker.template.TemplateException;
 
 /**
- * @author ajun
- * @http://blog.csdn.net/ajun_studio
  **/
 public class FreeMarkertUtil {
 
